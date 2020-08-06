@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+  display: flex;
+
+}
+
+.header{
+  display: flex;  
+}
+
+.link{
+  margin: 0.5rem;
+}
+.employees {
+  margin: 0.5rem;
+}
+.employee {
+ display: flex;
+}
+.remove{
+  margin-left: 0.5rem;
+  color: red;
+  cursor: pointer;
+}
